@@ -26,17 +26,17 @@
 
 # Autores do projeto
 
-* Carlos Vinícius dos Santos (@Carlos1999)
-* Hugo Felipe dos Santos (@hugofsantos)
+* Carlos Vinícius dos Santos ([@Carlos1999](https://github.com/carlos1999))
+* Hugo Felipe dos Santos ([@hugofsantos](https://github.com/hugofsantos))
 
 
 
 # Sobre o Projeto
 
-Projeto criado para a disciplina de Análise de Redes (IMD1155), ministrada pelo professor @ivanovitchm, do **Instituto Metrópole Digital - UFRN**, curso de Bacharelado em Tecnologia da Informação.
+Projeto criado para a disciplina de Análise de Redes (IMD1155), ministrada pelo professor [@ivanovitchm](https://github.com/@ivanovitchm), do **Instituto Metrópole Digital - UFRN**, curso de Bacharelado em Tecnologia da Informação.
 
 Para a realização de tal prática foram utilizadas as ferramentas:
 
-- ***Networkx\***;
-- ***Jupyter Notebooks\***;
-- ***Python\***
+- **_Networkx_**;
+- **_Jupyter Notebooks_**;
+- **_Python_**
