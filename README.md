@@ -1,4 +1,4 @@
-# Introdução
+# :mag_right: Introdução
 
 ​	Nesse repositório, estaremos realizando um estudo da rede da malha aérea brasileira, em que os nós da rede representam os aeroportos e os links (arestas) representam os voos de um aeroporto para outro. A Análise foi realizada levando em consideração cinco parâmetros: 
 
@@ -16,7 +16,7 @@
 
 
 
-# Passo a Passo Para a Reprodução
+# :play_or_pause_button: Passo a Passo Para a Reprodução
 
 1. Entrar no repositório [dataset-flights-brazil ](https://github.com/alvarofpp/dataset-flights-brazil), entrar na pasta **data**, baixar e descompactar   `anac.zip` dentro da pasta do notebook `network_analysis_malha_aerea` ;
 2. Executar o script  `cria_grafo.py`;
@@ -24,14 +24,14 @@
 
 
 
-# Autores do projeto
+# :man_technologist: Autores do projeto
 
 * Carlos Vinícius dos Santos ([@Carlos1999](https://github.com/carlos1999))
 * Hugo Felipe dos Santos ([@hugofsantos](https://github.com/hugofsantos))
 
 
 
-# Sobre o Projeto
+# :question: Sobre o Projeto
 
 Projeto criado para a disciplina de Análise de Redes (IMD1155), ministrada pelo professor [@ivanovitchm](https://github.com/ivanovitchm), do **Instituto Metrópole Digital - UFRN**, curso de Bacharelado em Tecnologia da Informação.
 
